@@ -1,2 +1,4 @@
-# CodingBat-Solutions
+# CodingBat
 CodingBat Solutions
+
+http://codingbat.com
