@@ -1,6 +1,5 @@
 def close_far(a, b, c):
-    return (is_close(a, b) and is_far(a, b, c)) or \ 
-        (is_close(a, c) and is_far(a, c, b))
+    return (is_close(a, b) and is_far(a, b, c)) or (is_close(a, c) and is_far(a, c, b))
         
 def is_close(a, b):
     return abs(a - b) <= 1
